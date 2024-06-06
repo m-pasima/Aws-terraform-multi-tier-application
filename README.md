@@ -7,7 +7,7 @@ This repository contains Terraform configurations to deploy a multi-tier applica
 
 ## Prerequisites
 
-- [Terraform](https://www.terraform.io/downloads.html) v0.12 or later
+- [Terraform](https://developer.hashicorp.com/terraform/install) v0.12 or later
 - AWS CLI configured with appropriate credentials
 - An AWS account
 
