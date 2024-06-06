@@ -222,10 +222,7 @@ resource "aws_ecs_service" "ecs_service" {
 }
 ```
 
-## Diagram
 
-Here is a graphical representation of the folder structure:
-![alt text](image.png)
 ```
 Aws-terraform-multi-tier-application
 │
